@@ -21,7 +21,7 @@ npm run lint
 ```
 
 Tela de projetos 
-!(tela_projetos.png)
+!([tela_projetos.png](https://github.com/felipefo/vue-quasar-leds-projects-crud/blob/main/tela_projetos.png))
 
 
 Tela de membros de projetos
