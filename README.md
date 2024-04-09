@@ -25,7 +25,7 @@ Tela de projetos
 
 
 Tela de membros de projetos
-!(tela_membros_de_projectos.png)
+![image](https://github.com/felipefo/vue-quasar-leds-projects-crud/blob/main/tela_membros_projetos.png)
 
 
 
