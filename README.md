@@ -21,11 +21,11 @@ npm run lint
 ```
 
 Tela de projetos 
-(tela_projetos.png)
+!(tela_projetos.png)
 
 
 Tela de membros de projetos
-(tela_membros_de_projectos.png)
+!(tela_membros_de_projectos.png)
 
 
 
