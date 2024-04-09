@@ -20,5 +20,14 @@ npm run build
 npm run lint
 ```
 
+Tela de projetos 
+(tela_projetos.png)
+
+
+Tela de membros de projetos
+(tela_membros_de_projectos.png)
+
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
